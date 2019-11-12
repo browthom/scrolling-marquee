@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../VHDL Custom Module Directory/clk_delay.vhd" \
+"../../../../../VHDL Test Benches/clk_delay_tb.vhd" \
+
+# Do not sort compile order
+nosort

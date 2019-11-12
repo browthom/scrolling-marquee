@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/browt/Documents/EE-CE Materials/VHDL Projects/VHDL Custom Module Directory/clk_delay.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity clk_delay
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/browt/Documents/EE-CE Materials/VHDL Projects/VHDL Custom Module Directory/count_to_eighteen.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity count_to_eighteen
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/browt/Documents/EE-CE Materials/VHDL Projects/scrolling_marquee/scrolling_marquee.srcs/sim_1/new/clk_delay_and_count_up_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity clk_delay_and_count_up_tb
