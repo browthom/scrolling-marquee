@@ -1,7 +1,7 @@
 Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
 --------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2018.2 (win64) Build 2258646 Thu Jun 14 20:03:12 MDT 2018
-| Date         : Mon Nov 11 15:57:05 2019
+| Date         : Sun Dec 15 18:13:04 2019
 | Host         : LAPTOP-683OQKA0 running 64-bit major release  (build 9200)
 | Command      : report_control_sets -verbose -file top_level_control_sets_placed.rpt
 | Design       : top_level
@@ -65,8 +65,8 @@ Table of Contents
 |  M1/mux_clk_div/CLK  |                           |                     |                1 |              4 |
 |  temp_reg[5]_i_2_n_0 | count_18/sel              | count_18/state      |                2 |             10 |
 |  temp_reg[5]_i_2_n_0 | count_18/delay[6]_i_2_n_0 | count_18/clear      |                3 |             14 |
-|  clk_IBUF_BUFG       |                           |                     |                6 |             38 |
 |  temp_reg[5]_i_2_n_0 |                           |                     |                6 |             38 |
+|  clk_IBUF_BUFG       |                           |                     |                6 |             38 |
 |  clk_IBUF_BUFG       |                           | U5/count[0]_i_1_n_0 |                7 |             52 |
 +----------------------+---------------------------+---------------------+------------------+----------------+
 
